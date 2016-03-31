@@ -1,0 +1,19 @@
+{
+  "name": "wwid",
+  "version": "0.1.0",
+  "description": "What was I doing? A task management cli inspired by Brett Terpstra.",
+  "bin": {
+    "wwid": "cli.js"
+  },
+  "keywords": [
+    "cli",
+    "task",
+    "wwid"
+  ],
+  "author": "Tim Douglas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neurotech/wwid.git"
+  }
+}
